@@ -20,6 +20,9 @@ gem 'turbolinks', '~> 5'
 # Api
 gem 'jbuilder', '~> 2.5'
 
+# User
+gem 'devise'
+
 group :development, :test do
   gem 'byebug', platform: :mri
 end
